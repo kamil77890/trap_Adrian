@@ -1,12 +1,14 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+import { FaFaceSmileWink } from "react-icons/fa6";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <div >Thats a trap bro...</div>
+      <div>
+        <small>Thats a trap bro...</small>
+        <FaFaceSmileWink />
+      </div>
     </>
   );
 }
