@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        <small>Thats a trap bro...</small>
+        <small>Thats a trap...</small>
         <FaFaceSmileWink />
       </div>
     </>
